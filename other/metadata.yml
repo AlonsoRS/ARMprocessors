@@ -1,0 +1,16 @@
+---
+:id: 84506219
+:submitters:
+- :name: Juan Diego Laredo Yarma
+  :email: juan.laredo@utec.edu.pe
+- :name: Alonso Matias Rios Sialer
+  :email: alonso.rios@utec.edu.pe
+- :name: Denis Adrian Irala Morales
+  :email: denis.irala@utec.edu.pe
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-07-31 23:21:30.172014000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-07-31 16:21:30.172014000 Z
+:status: processed
+:score: 18.0
